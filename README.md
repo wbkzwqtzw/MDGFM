@@ -81,4 +81,6 @@ Extensive experiments on Penn94 can be conducted using *MDGFM_penn.py*, where co
 ```
 python MDGFM_penn.py --shot_num k #Please modify the k value by yourself
 ```
+## Data
+All datasets could be publicly downloaded, few-shot samples are divided following previous works.
 
