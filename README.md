@@ -1,6 +1,6 @@
 # MDGFM
 <h1 align="center"> Multi-Domain Graph Foundation Models: Robust Knowledge Transfer via Topology Alignment </a></h2>
-<h5 align="center"> If you like our project, please give us a star ⭐ on GitHub for the latest update.</h5>
+
 
 
 ## Setup Environment
