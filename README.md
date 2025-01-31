@@ -18,7 +18,7 @@
   
 ## Running experiments
 
-'preprompt20.py' is the code for the pre training phase, 'downprompt20.py' is downstream code and 'execute20.py' is the entire code of our model. 
+'preprompt.py' is the code for the pre training phase, 'downprompt.py' is downstream code and 'MDGFM.py' is the entire code of our model. 
 
 ### For different datasets, please run the following code：
 #### Cora:
